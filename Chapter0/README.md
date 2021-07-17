@@ -22,7 +22,9 @@ You can easily find videos, slides and so on via the above links. If you can't a
 ## Guidance to R
 https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html
 
-If you can read Chinese, the link above provides a great guidance. Also, if your are interested in statistics, you will definately find something useful from Prof Li Dongfeng's homepage, which is attached below.
+If you can read Chinese, the link above provides a great guidance. You can find the pdf version named "Rbook" in Chapter0.
+
+Also, if your are interested in statistics, you will definately find something useful from Prof Li Dongfeng's homepage, which is attached below.
 
 https://www.math.pku.edu.cn/teachers/lidf/
 
