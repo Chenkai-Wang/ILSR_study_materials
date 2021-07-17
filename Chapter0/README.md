@@ -1,7 +1,6 @@
 # First of all, I will share some useful links.
 
 https://www.statlearning.com
-
 the link above is the homepage of ILSR, you can find almost everything you need while studying the book.
 
 ## Homepage of the authors
@@ -17,13 +16,12 @@ the link above is the homepage of ILSR, you can find almost everything you need 
 ## Lecture ntoes and videos
 
 http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html
-
-You can easily find videos, slides and so on via the above links. If you can't access these pages, don't worry, you can find them in my project in the corresponding chapter.
+You can easily find videos, slides and so on via the above links. If you can't access these pages, don't worry, you can find them in my project in the corresponding chapters.
 
 ## Guidance to R
 https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html
-
-If you can read Chinese, the link above provides a great guidance. Also, if your are interested in statistics, you will definately find something useful from Prof Li Dongfeng's homepage: https://www.math.pku.edu.cn/teachers/lidf/
+If you can read Chinese, the link above provides a great guidance. Also, if your are interested in statistics, you will definately find something useful from Prof Li Dongfeng's homepage:
+https://www.math.pku.edu.cn/teachers/lidf/
 
 
 
